@@ -36,3 +36,6 @@ The curriculum here is extensive and free, but so far these are mostly only desc
 
 <a href="http://billpatrianakos.me/blog/2013/10/13/list-of-rails-status-code-symbols/">List of Rails Status Code Symbols</a>
 This one is from Lesson 25 in Firehose Track 3
+
+<a href="https://www.bingmapsportal.com/">Bing Maps Dev Center</a>
+This is for obtaining maps API keys
