@@ -32,7 +32,7 @@ Training camp for algorithms
 <a href="https://rails.devcamp.com/professional-rails-development-course/ui-ux-integration/implementing-pagination-rails-kaminari">Rails Camp: Implementing Pagination in Rails with Kaminari</a>
 
 <a href="https://rails.devcamp.com/courses">Rails Camp Courses</a>
-The curriculum here is extensive and free
+The curriculum here is extensive and free, but so far these are mostly only descriptions of curriculum, as far as I can tell.
 
 <a href="http://billpatrianakos.me/blog/2013/10/13/list-of-rails-status-code-symbols/">List of Rails Status Code Symbols</a>
 This one is from Lesson 25 in Firehose Track 3
