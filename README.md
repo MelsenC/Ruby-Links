@@ -47,6 +47,8 @@ Rails security Scanner
 
 <a href="https://developers.google.com/maps/documentation/javascript/examples/">Google Maps Javascript API</a>
 
+<a href="https://console.developers.google.com/flows/enableapi?apiid=maps_backend,geocoding_backend,directions_backend,distance_matrix_backend,elevation_backend&keyType=CLIENT_SIDE&reusekey=true&pli=1">Google Developers Console</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
