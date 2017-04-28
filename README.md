@@ -45,6 +45,8 @@ This is for obtaining maps API keys
 <a href="http://brakemanscanner.org/">Brakeman Gem</a>
 Rails security Scanner
 
+<a href="https://developers.google.com/maps/documentation/javascript/examples/">Google Maps Javascript API</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
