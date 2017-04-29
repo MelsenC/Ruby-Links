@@ -59,6 +59,9 @@ Rails security Scanner
   <li>
     <a href="https://github.com/pry/pry">Pry Gem</a>
   </li>
+  <li>
+    <a href="https://apidock.com/ruby/Array/zip">.zip method for Arrays</a>
+  </li>
   <li><h4>Blogs and News to read</h4>
     <ul>
       <li>
