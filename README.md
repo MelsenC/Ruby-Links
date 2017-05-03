@@ -51,6 +51,8 @@ Rails security Scanner
 
 <a href="http://stackoverflow.com/questions/15589682/ssh-connect-to-host-github-com-port-22-connection-timed-out">Stack Overflow: how to change git sign in using https instead of ssh, to get around network connection issues</a>
 
+<a href="http://blog.thefirehoseproject.com/posts/switching-carrierwave-to-use-s3-with-heroku-and-localhost/">How to use Amazon S3 for uploading images</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
