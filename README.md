@@ -53,6 +53,8 @@ Rails security Scanner
 
 <a href="http://blog.thefirehoseproject.com/posts/switching-carrierwave-to-use-s3-with-heroku-and-localhost/">How to use Amazon S3 for uploading images</a>
 
+<a href="https://console.aws.amazon.com">Amazon Web Services Console</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
