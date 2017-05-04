@@ -55,6 +55,8 @@ Rails security Scanner
 
 <a href="https://console.aws.amazon.com">Amazon Web Services Console</a>
 
+<a href="http://api.rubyonrails.org/classes/ActiveRecord/Callbacks.html">ActiveRecord callbacks</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
