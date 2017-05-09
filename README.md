@@ -61,6 +61,8 @@ Rails security Scanner
 
 <a href="https://www.iconfinder.com/">IconFinder.com</a>
 
+<a href="http://www.justinweiss.com/articles/how-rails-sessions-work/">Justin Weiss: How Rails Sessions Work (cookies vs cache vs database)</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
