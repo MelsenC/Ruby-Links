@@ -63,6 +63,8 @@ Rails security Scanner
 
 <a href="http://www.justinweiss.com/articles/how-rails-sessions-work/">Justin Weiss: How Rails Sessions Work (cookies vs cache vs database)</a>
 
+<a href="http://stackoverflow.com/questions/11354211/google-maps-query-parameter-clarification">Google Maps Query Parameters for urls</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
