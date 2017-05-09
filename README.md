@@ -57,6 +57,10 @@ Rails security Scanner
 
 <a href="http://api.rubyonrails.org/classes/ActiveRecord/Callbacks.html">ActiveRecord callbacks</a>
 
+<a href="https://dzone.com/articles/date-time-format-ruby">Date-time format in Ruby</a>
+
+<a href="https://www.iconfinder.com/">IconFinder.com</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
