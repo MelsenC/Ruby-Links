@@ -67,6 +67,8 @@ Rails security Scanner
 
 <a href="http://www.zagaja.com/2017/05/what-to-learn-after-code-bootcamp/">What to Learn After Code Bootcamp</a>
 
+<a href="https://thoughtbot.com/upcase/mastering-git">Mastering Git Video Course, by Upcase</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
