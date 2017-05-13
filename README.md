@@ -65,6 +65,8 @@ Rails security Scanner
 
 <a href="http://stackoverflow.com/questions/11354211/google-maps-query-parameter-clarification">Google Maps Query Parameters for urls</a>
 
+<a href="http://www.zagaja.com/2017/05/what-to-learn-after-code-bootcamp/">What to Learn After Code Bootcamp</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
