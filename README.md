@@ -73,6 +73,8 @@ Rails security Scanner
 
 <a href="https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-">YouTube: Introduction Series in the GitHub & Git Foundations</a>
 
+<a href="http://www.cssmatic.com/noise-texture">CSSmatic.com: Noise-texture png generator</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
