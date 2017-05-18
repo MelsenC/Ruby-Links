@@ -75,6 +75,8 @@ Rails security Scanner
 
 <a href="http://www.cssmatic.com/noise-texture">CSSmatic.com: Noise-texture png generator</a>
 
+<a href="https://www.quackit.com/bootstrap/bootstrap_4/tutorial/">Quackit Bootstrap 4 Tutorial</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
