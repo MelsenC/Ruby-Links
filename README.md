@@ -77,6 +77,8 @@ Rails security Scanner
 
 <a href="https://www.quackit.com/bootstrap/bootstrap_4/tutorial/">Quackit Bootstrap 4 Tutorial</a>
 
+<a href="http://stackoverflow.com/questions/17918117/rails-4-list-of-available-datatypes">Rails 4 List of Available Datatypes</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
