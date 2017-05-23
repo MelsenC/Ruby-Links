@@ -79,6 +79,8 @@ Rails security Scanner
 
 <a href="http://stackoverflow.com/questions/17918117/rails-4-list-of-available-datatypes">Rails 4 List of Available Datatypes</a>
 
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS Tricks: Guide to Flexbox</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
