@@ -81,6 +81,8 @@ Rails security Scanner
 
 <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS Tricks: Guide to Flexbox</a>
 
+<a href="http://gitready.com/beginner/2009/03/09/remote-tracking-branches.html">Git Remote Tracking Branches - About</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
