@@ -83,6 +83,8 @@ Rails security Scanner
 
 <a href="http://gitready.com/beginner/2009/03/09/remote-tracking-branches.html">Git Remote Tracking Branches - About</a>
 
+<a href="https://www.kernel.org/pub/software/scm/git/docs/">Git Documentation</a>
+
 <h3>Mentor Session 1 links (if not included above)</h3>
 <ul>
   <li>
